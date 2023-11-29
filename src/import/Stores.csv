@@ -1,0 +1,6 @@
+transaction_store_id,sku_id,sku_purchase_price,sku_retail_price
+1,4,6.99,39999.99
+2,5,39999.99,6.99
+5411,1,100,184.99
+5412,3,20.99,20.99
+5814,2,418,209
